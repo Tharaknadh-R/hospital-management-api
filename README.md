@@ -73,7 +73,7 @@ A RESTful Hospital Management API built using **Node.js**, **Express.js**, and *
 Clone the repository
 
 ```bash
-git clone https://github.com/Tharaknad-R/hospital-management-api.git
+git clone https://github.com/Tharaknadh-R/hospital-management-api.git
 ```
 
 Install dependencies
